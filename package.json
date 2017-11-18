@@ -1,7 +1,7 @@
 {
-  "name": "pyraxo.moe",
+  "name": "yogasakti.github.io",
   "version": "1.0.0",
-  "description": "pyraxo's site",
+  "description": "yogs site",
   "main": "index.js",
   "scripts": {
     "test": "echo \"no tests wewlad\"",
@@ -9,14 +9,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/pyraxo/pyraxo.moe.git"
+    "url": "git+https://github.com/yogasakti/yogasakti.github.io.git"
   },
-  "author": "pyraxo <pyraxo@tfwno.gf> (https://pyraxo.moe)",
+  "author": "pyraxo <pyraxo@tfwno.gf>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/pyraxo/pyraxo.moe/issues"
+    "url": "https://github.com/yogasakti/yogasakti.github.io/issues"
   },
-  "homepage": "https://github.com/pyraxo/pyraxo.moe#readme",
+  "homepage": "https://github.com/yogasakti/yogasakti.github.io",
   "dependencies": {
     "aero": "^2.0.9",
     "aero-ajax": "^1.0.1",
